@@ -1,0 +1,8 @@
+
+First :- Create frontend
+720 by 480 video screen
+Effects at bottom
+on top-right - edit mode button
+below it color and other settings
+below it screenshot, save to cloud, undo and delete and mood recognition on ?
+ 
